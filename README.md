@@ -1,10 +1,12 @@
-# arcgis-js-api
+# arcgis-js-api (Deprecated)
 
-This repository is used as a reference for the [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/) widget styles documentation.
+[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges) 
+
+This repository is used as a reference for the [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/) widget styles.
+
+**Deprecation Notice.** Using SCSS to style the SDK's widgets was deprecated at 4.29 and is no longer supported as of 4.31. Migrate to using Calcite for [styling](https://developers.arcgis.com/javascript/latest/styling/#calcite-styling).
 
 If you are starting a new project, we recommend using a local build with components or @arcgis/core. See the [Get started with npm](https://developers.arcgis.com/javascript/latest/get-started-npm/) guide topic for more information.
-
-**Looking for 3.x?** The ArcGIS for JavaScript 3.x has been retired. See the [retirement announcement](https://www.esri.com/arcgis-blog/products/js-api-arcgis/developers/arcgis-api-for-javascript-version-3-x-retirement/) for more information.
 
 ## Requirements
 
